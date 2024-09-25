@@ -14,6 +14,10 @@
   <a href="https://www.instagram.com/whostya__/">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=brown" alt="Instagram Badge"/>
   </a>
+  <a href="mailto:awittiaanandaa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-pink?style=for-the-badge&logo=email&logoColor=brown" alt="Email Badge"/>
+</a>
+
 </div>
 
 <div align="center">
