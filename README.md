@@ -22,7 +22,7 @@
 
 <!-- Menambahkan centering untuk h1 -->
 <h1 align="center">
-  Hey Awittia Here! 🌸
+  Hey There! 🌸
 </h1>
 
 <div align="center">
