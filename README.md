@@ -53,9 +53,11 @@ I am a Frontend Developer! 💻
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=awittiaananda&theme=default&background=FFB6C1&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&border_color=000000)](https://git.io/streak-stats)
-<br>
+<div align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awittiaananda&layout=compact&theme=default&bg_color=FFB6C1&text_color=000000&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 
 
