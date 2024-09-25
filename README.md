@@ -55,7 +55,7 @@ I am a Frontend Developer! 💻
 ### :fire: My Stats :
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awittiaananda&layout=compact&theme=default&bg_color=FFB6C1&text_color=000000&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awittiaananda&layout=compact&theme=default&bg_color=FEDEFF&text_color=000000&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
